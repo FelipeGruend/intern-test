@@ -24,21 +24,21 @@ O projeto deve conter um breve Readme (formato Markdown) com instruções de ins
 
 ## Requisitos
 
-Ruby on Rails Project(MVC)
-Interface Material Design
-Script de carregamento de XML
-Lista pesquisável de pesquisadores com seu nome e quantidadade de artigos
-Utilizar MongoDB
-Controle de versão com GitHub
-Readme com instruções
+- Ruby on Rails Project(MVC)
+- Interface Material Design
+- Script de carregamento de XML
+- Lista pesquisável de pesquisadores com seu nome e quantidadade de artigos
+- Utilizar MongoDB
+- Controle de versão com GitHub
+- Readme com instruções
 
 ## Extras
 
-Funcionalidade para Upload de novos XML para a base
-Utilização de componentes VueJS
-Testes (TDD)
-Boas práticas e padrões de projeto
-Organização e documentação do fluxo de desenvolvimento (um board no trello, asana e etc)
+- Funcionalidade para Upload de novos XML para a base
+- Utilização de componentes VueJS
+- Testes (TDD)
+- Boas práticas e padrões de projeto
+- Organização e documentação do fluxo de desenvolvimento (um board no trello, asana e etc)
 
 
 ## Entregáveis/Apresentação
@@ -49,9 +49,9 @@ No **sábado, dia 23/02/19, às 14h,** será realizada uma etapa presencial cons
 
 ## Dicas e sugestões:
 
-Nokogiri Gem para parser de xml
-MongoID Gem para interface mongodb <-> ruby 
-GitKraken para controle de versão
+- Nokogiri Gem para parser de xml
+- MongoID Gem para interface mongodb <-> ruby 
+- GitKraken para controle de versão
 
 ## Exemplo de resultado final:
 ![Imagem exemplo](img/screen_example.png)
