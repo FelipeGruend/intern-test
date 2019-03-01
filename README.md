@@ -1,4 +1,4 @@
-# Teste para Estagioário de Desenvolvimento - Indeorum
+# Teste para Estagiário de Desenvolvimento - Indeorum
 
 ## Introdução
 A indeorum iniciou como uma empresa voltada a serviços de data science aplicados a pós-graduação brasileira.
