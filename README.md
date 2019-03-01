@@ -44,8 +44,8 @@ O projeto deve conter um breve Readme (formato Markdown) com instruções de ins
 ## Entregáveis/Apresentação
 
 Para execução do teste, deverá ser realizado o fork deste repositório e desenvolvido a partir de então.
-A entrega deverá ser realizada através do envio do link do repositório para o email até **sexta-feira (22/02/19), as 23:59**.
-No **sábado, dia 23/02/19, às 14h,** será realizada uma etapa presencial consistindo de uma etapa em grupo, além de uma breve apresentação individual do resultado enviado deste teste.
+A entrega deverá ser realizada através do envio do link do repositório para o email até **quinta-feira (07/03/19), as 23:59**.
+Na **sexta, dia 08/03/19, às 10h,** será realizada uma etapa presencial consistindo de uma etapa em grupo, além de uma breve apresentação individual do resultado enviado deste teste.
 
 ## Dicas e sugestões:
 
